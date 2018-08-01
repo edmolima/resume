@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "The simple and clean resume",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "build": "",
+    "publish": ""
+  },
+  "keywords": [],
+  "author": "Edmo Lima",
+  "license": "MIT"
+}
